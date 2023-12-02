@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+   
+}
+
+#container{
+    background: rgb(238,184,197);
+    background: linear-gradient(45deg, rgba(238,184,197,1) 15%, rgba(162,159,242,1) 100%);
+    border: 2px solid pink;
+    border-radius: 10px;
+    margin: 100px auto;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 350px;
+}
+
+.mt-3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 200px;
+}
