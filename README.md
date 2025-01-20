@@ -17,7 +17,7 @@
       <img width="300" height="300" src="LoginVerify/img02.jpg" >
   </li>
   <li>
-      <p>Cascading DropDown </p>
+      <p>Cascading DropDown from array </p>
       <p>(using : html, bootstrap, css, js)</p>
       <img width="300" height="300" src="CascadingDropDown/gif.gif" >
       
